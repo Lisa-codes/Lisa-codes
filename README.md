@@ -35,8 +35,12 @@ Also Familiar With:
 A hiking website built with Flask to manage bookings and SMS notifications.  
 **Skills Used:** Flask, MySQL, Bootstrap, UI/UX principles
 
+### 📊 [Data Cleaning Project](https://github.com/Lisa-codes/Data-Cleaning-Project-with-MySQL)
+This project focuses on cleaning and preparing real-world layoff data for further analysis. The dataset includes information about layoffs across different companies, industries, countries, and periods.
+Skills Used: SQL, Data Cleaning
+
 ---
-##G
+
 
 ---
 
