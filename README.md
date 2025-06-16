@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lisa Njeri
 
-🎯 Aspiring Data Analyst | Former Web Designer & Developer  
+🎯 Data Analyst | Former Web Designer & Developer  
 📊 Data Storyteller | Problem Solver | Creative Thinker
 📍 Based in Nairobi, Kenya
 
