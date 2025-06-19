@@ -40,7 +40,9 @@ This project focuses on cleaning and preparing real-world layoff data for furthe
 Skills Used: SQL, Data Cleaning
 
 ---
-
+### [Retail Store Predictive Analytics Project](https://github.com/Lisa-codes/retail-sales-predictive-analysis)
+A predictive analytics project built using SQL, Excel, and Power BI to uncover customer trends, product preferences, and seasonal buying behaviour in a retail store.
+Skills used: SQL, Data Cleaning, Power BI, Microsoft Excel, Data Analysis, Predictive Analysis
 
 ---
 
