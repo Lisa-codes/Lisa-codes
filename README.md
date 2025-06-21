@@ -24,12 +24,14 @@ Also Familiar With:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ---
 
 ![Lisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lisa-codes&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lisa-codes&theme=radical)
-![Visitor Count](https://komarev.com/ghpvc/?username=Lisa-codes&color=green)
+
 
 
 
