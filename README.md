@@ -27,6 +27,13 @@ Also Familiar With:
 
 ---
 
+![Lisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lisa-codes&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lisa-codes&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=Lisa-codes&color=green)
+
+
+
+
 ## 📌 Featured Projects
 
 
